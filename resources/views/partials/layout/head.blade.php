@@ -23,13 +23,13 @@
 
 	@yield('styles')
 
-    <link rel="stylesheet" type="text/css" href="{{asset('assets_front/css/main.css')}}" />
+    <link rel="stylesheet" type="text/css" href="{{asset('/resources/css/main.css')}}" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
-    <link href="{{asset('assets_front/css/bootstrap.min.css')}}" rel="stylesheet">
+    <link href="{{asset('resources/css/bootstrap.min.css')}}" rel="stylesheet">
 
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"></script>
-    <script src="{{asset('assets_front/js/jquery.vimeo.api.js')}}"></script>
-    <script src="{{asset('assets_front/js/videos.js')}}"></script>
-    <script src="{{asset('assets_front/js/funciones.js')}}"></script>
+    <script src="{{asset('resources/js/jquery.js')}}"></script>
+    <script src="{{asset('resources/js/jquery.vimeo.api.js')}}"></script>
+    <script src="{{asset('resources/js/videos.js')}}"></script>
+    <script src="{{asset('resources/js/funciones.js')}}"></script>
 
 </head>

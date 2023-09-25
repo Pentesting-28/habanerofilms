@@ -10,7 +10,7 @@
                     <table class="tabla-content">
                         <tr>
                             <td valign="middle">
-                                <img src="{{asset('assets_front/img/left.png')}}" class="left" />
+                                <img src="{{asset('resources/img/left.png')}}" class="left" />
                                 EXPLORE TEOTIHUACAN APP
                                 <div class="descripcion">
                                     An app developed in coordination with Mexico’s National Anthropology and History Institute to enhance your visit to the archaeological zone. The app is complete and even contains a 3D elevation of the city as it was thought to be 2000 years ago. Sponsored by Hyundai Korea in exchange for product placement.
@@ -20,8 +20,8 @@
                     </table>
                 </div>
                 <center>
-                    <img id="btn-content-1" src="{{asset('assets_front/img/contenido/1.jpg')}}" />
-                    <img id="btn-content-1-over" src="{{asset('assets_front/img/contenido/1-over.jpg')}}" />
+                    <img id="btn-content-1" src="{{asset('resources/img/contenido/1.jpg')}}" />
+                    <img id="btn-content-1-over" src="{{asset('resources/img/contenido/1-over.jpg')}}" />
                 </center>
             </div>
 
@@ -30,7 +30,7 @@
                     <table class="tabla-content">
                         <tr>
                             <td valign="middle">
-                                <img src="{{asset('assets_front/img/left.png')}}" class="left" />
+                                <img src="{{asset('resources/img/left.png')}}" class="left" />
                                 ESE WEY PRESENTA
                                 <div class="descripcion">
                                     A standup comedy featuring original content hosted by famed comic Ese Wey.
@@ -41,8 +41,8 @@
                 </div>
 
                 <center>
-                    <img id="btn-content-2" src="{{asset('assets_front/img/contenido/2.jpg')}}" />
-                    <img id="btn-content-2-over" src="{{asset('assets_front/img/contenido/2-over.jpg')}}" />
+                    <img id="btn-content-2" src="{{asset('resources/img/contenido/2.jpg')}}" />
+                    <img id="btn-content-2-over" src="{{asset('resources/img/contenido/2-over.jpg')}}" />
                 </center>
             </div>
 
@@ -51,7 +51,7 @@
                     <table class="tabla-content">
                         <tr>
                             <td valign="middle">
-                                <img src="{{asset('assets_front/img/left.png')}}" class="left" />
+                                <img src="{{asset('resources/img/left.png')}}" class="left" />
                                 FOR THE DEAF
                                 <div class="descripcion">
                                     An invitation to a global forum on inclusive education in Tabasco, Mexico, especially conceived for the both the deaf and the hearing.
@@ -62,8 +62,8 @@
                 </div>
 
                 <center>
-                    <img id="btn-content-3" src="{{asset('assets_front/img/contenido/3.jpg')}}" />
-                    <img id="btn-content-3-over" src="{{asset('assets_front/img/contenido/3-over.jpg')}}" />
+                    <img id="btn-content-3" src="{{asset('resources/img/contenido/3.jpg')}}" />
+                    <img id="btn-content-3-over" src="{{asset('resources/img/contenido/3-over.jpg')}}" />
                 </center>
             </div>
 	 	</div>
@@ -74,7 +74,7 @@
                     <table class="tabla-content">
                         <tr>
                             <td valign="middle">
-                                <img src="{{asset('assets_front/img/left.png')}}" class="left" />
+                                <img src="{{asset('resources/img/left.png')}}" class="left" />
                                 BANAMEX RECIPES
                                 <div class="descripcion">
                                     “Recetas de Patrimonio” (“Heritage Recipes”) is a series of short videos that show how to prepare the best dishes from Mexico´s quaint “Pueblos Mágicos” (Magical Towns) as well as UN World Heritage Sites. This edition presents “Caldo de Tilapia” (fish soup) from Yuriria, Guanajuato.
@@ -85,8 +85,8 @@
                 </div>
 
                 <center>
-                    <img id="btn-content-4" src="{{asset('assets_front/img/contenido/4.jpg')}}" />
-                    <img id="btn-content-4-over" src="{{asset('assets_front/img/contenido/4-over.jpg')}}" />
+                    <img id="btn-content-4" src="{{asset('resources/img/contenido/4.jpg')}}" />
+                    <img id="btn-content-4-over" src="{{asset('resources/img/contenido/4-over.jpg')}}" />
                 </center>
             </div>
 
@@ -95,7 +95,7 @@
                     <table class="tabla-content">
                         <tr>
                             <td valign="middle">
-                                <img src="{{asset('assets_front/img/left.png')}}" class="left" />
+                                <img src="{{asset('resources/img/left.png')}}" class="left" />
                                 ROCK THE VOTE DÉMIAN BICHIR  <br />AND CECILIA SUÁREZ
                                 <div class="descripcion">
                                     Spots designed to encourage the vote among US Latinos.
@@ -106,8 +106,8 @@
                 </div>
 
                 <center>
-                    <img id="btn-content-5" src="{{asset('assets_front/img/contenido/5.jpg')}}" />
-                    <img id="btn-content-5-over" src="{{asset('assets_front/img/contenido/5-over.jpg')}}" />
+                    <img id="btn-content-5" src="{{asset('resources/img/contenido/5.jpg')}}" />
+                    <img id="btn-content-5-over" src="{{asset('resources/img/contenido/5-over.jpg')}}" />
                 </center>
             </div>
 
@@ -116,7 +116,7 @@
                     <table class="tabla-content">
                         <tr>
                             <td valign="middle">
-                                <img src="{{asset('assets_front/img/left.png')}}" class="left" />
+                                <img src="{{asset('resources/img/left.png')}}" class="left" />
                                 ÁLVARO
                                 <div class="descripcion">
                                     A fictional short film developed for Banamex Seguros. The piece takes on an extremely difficult subject, the eminent death of a young father and the possibility of putting his family´s financial security in jeopardy.
@@ -127,8 +127,8 @@
                 </div>
 
                 <center>
-                    <img id="btn-content-6" src="{{asset('assets_front/img/contenido/6.jpg')}}" />
-                    <img id="btn-content-6-over" src="{{asset('assets_front/img/contenido/6-over.jpg')}}" />
+                    <img id="btn-content-6" src="{{asset('resources/img/contenido/6.jpg')}}" />
+                    <img id="btn-content-6-over" src="{{asset('resources/img/contenido/6-over.jpg')}}" />
                 </center>
             </div>
 	 	</div>
@@ -139,7 +139,7 @@
                         <table class="tabla-content">
                             <tr>
                                 <td valign="middle">
-                                <img src="{{asset('assets_front/img/left.png')}}" class="left" />
+                                <img src="{{asset('resources/img/left.png')}}" class="left" />
                                     VIDEO CLIP: “SIEMPRE TÚ”  <br />BY AXEL MUÑIZ AND ALEXANDRA STAN
                                     <div class="descripcion">
                                         The video that has promoted “Siempre Tú” by Axel Muñiz and Alexandra Stan to be a hit song. So far it has racked up more than a quarter of a million views
@@ -149,8 +149,8 @@
                         </table>
                     </div>
 
-                    <center><img id="btn-content-7" src="{{asset('assets_front/img/contenido/7.jpg')}}" />
-                    <img id="btn-content-7-over" src="{{asset('assets_front/img/contenido/7-over.jpg')}}" /></center>
+                    <center><img id="btn-content-7" src="{{asset('resources/img/contenido/7.jpg')}}" />
+                    <img id="btn-content-7-over" src="{{asset('resources/img/contenido/7-over.jpg')}}" /></center>
             </div>
 
             <div class="col-md-4">
@@ -158,7 +158,7 @@
                     <table class="tabla-content">
                         <tr>
                             <td valign="middle">
-                            <img src="{{asset('assets_front/img/left.png')}}" class="left" />
+                            <img src="{{asset('resources/img/left.png')}}" class="left" />
                                 VIDEO CLIP: <br />“LA BUSQUEDA” BY FOBIA
                                 <div class="descripcion">
                                     The music video for the hit song “La Busqueda” by the Mexican group Fobia. Product branding covered the entire cost of the production.
@@ -169,8 +169,8 @@
                 </div>
 
                 <center>
-                    <img id="btn-content-8" src="{{asset('assets_front/img/contenido/8.jpg')}}" />
-                    <img id="btn-content-8-over" src="{{asset('assets_front/img/contenido/8-over.jpg')}}" />
+                    <img id="btn-content-8" src="{{asset('resources/img/contenido/8.jpg')}}" />
+                    <img id="btn-content-8-over" src="{{asset('resources/img/contenido/8-over.jpg')}}" />
                 </center>
             </div>
 
@@ -179,7 +179,7 @@
                     <table class="tabla-content">
                         <tr>
                             <td valign="middle">
-                                <img src="{{asset('assets_front/img/left.png')}}" class="left" />
+                                <img src="{{asset('resources/img/left.png')}}" class="left" />
                                 BRANDED CONTENT: <br />VITAMIN C
                                 <div class="descripcion">
                                     A video capsule about the importance of vitamin C to the human body, developed for PrevenIMSS, a Mexican public health program, presented on social media.
@@ -190,8 +190,8 @@
                 </div>
 
                 <center>
-                    <img id="btn-content-9" src="{{asset('assets_front/img/contenido/9.jpg')}}" />
-                    <img id="btn-content-9-over" src="{{asset('assets_front/img/contenido/9-over.jpg')}}" />
+                    <img id="btn-content-9" src="{{asset('resources/img/contenido/9.jpg')}}" />
+                    <img id="btn-content-9-over" src="{{asset('resources/img/contenido/9-over.jpg')}}" />
                 </center>
             </div>
         </div>
@@ -205,7 +205,7 @@
         <tr>
             <td valign="middle">
                 <div class="head-full">
-                    <img src="{{asset('assets_front/img/amarillo-vertical.png')}}" class="amarillo-vertical-full" />
+                    <img src="{{asset('resources/img/amarillo-vertical.png')}}" class="amarillo-vertical-full" />
                     <div style="position:relative;top:-22pt;margin-left:5px;">
                         <span class="titulo-full-1">EXPLORE TEOTIHUACAN APP</span>
                         <span class="titulo-full-2">ESE WEY PRESENTA</span>
@@ -220,9 +220,9 @@
                 </div>
                 <div>
                     <span class="close-digital">
-                        <img src="{{asset('assets_front/img/cerrar.png')}}" class="cerrar" align="right" />
+                        <img src="{{asset('resources/img/cerrar.png')}}" class="cerrar" align="right" />
                     </span>
-                    <img src="{{asset('assets_front/img/linea-amarilla.png')}}" class="linea-amarilla" />
+                    <img src="{{asset('resources/img/linea-amarilla.png')}}" class="linea-amarilla" />
                     <p>
                         <iframe src="https://player.vimeo.com/video/238818994/?byline=0&portrait=0&amp;autoplay=0" class="frame-videos" id="video-digital-1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                         <iframe src="https://player.vimeo.com/video/238015067/?byline=0&portrait=0&amp;autoplay=0" class="frame-videos" id="video-digital-2" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

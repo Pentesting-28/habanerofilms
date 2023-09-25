@@ -1,11 +1,11 @@
 <div class="header">
-	<a href="{{route('front.index')}}"><img src="{{asset('assets_front/img/logo.svg')}}" class="logo" /></a>
+	<a href="{{route('front.index')}}"><img src="{{asset('resources/img/logo.svg')}}" class="logo" /></a>
 	<div class="menu">
 		<a href="{{route('front.index')}}">
             <span class="btn-directors" style="color:#1D1F29;">HOME</span>
         </a>
 		<a href="#">
-            <span class="btn-directors" style="color:#1D1F29;">DIRECTORS <img src="{{asset('assets_front/img/flecha_menu.png')}}" border="0" style="vertical-align: middle;" /></span>
+            <span class="btn-directors" style="color:#1D1F29;">DIRECTORS <img src="{{asset('resources/img/flecha_menu.png')}}" border="0" style="vertical-align: middle;" /></span>
         </a>
 		<a href="{{route('front.digital-content')}}">
             <span class="btn-digital" style="color:#1D1F29;">DIGITAL & CONTENT</span>
@@ -64,12 +64,12 @@
         </p>
 	</div>
 
-	<!-- btn small--><img src="{{asset('assets_front/img/menu-01.svg')}}" class="btn-menu-small" /><!-- fin btn small -->
+	<!-- btn small--><img src="{{asset('resources/img/menu-01.svg')}}" class="btn-menu-small" /><!-- fin btn small -->
 </div>
 
 <!-- contiene btn small -->
 <div class="menu-cel">
-    <img src="{{asset('assets_front/img/close-small.svg')}}" class="close-small" />
+    <img src="{{asset('resources/img/close-small.svg')}}" class="close-small" />
     <p>
         <a href="{{route('front.index')}}">
             <span style="color:#1D1F29;">
@@ -130,9 +130,9 @@
 <div class="contact">
     <div class="centra-contact">
         <div class="contiene-contact">
-            <img src="{{asset('assets_front/img/cerrar-contact.png')}}" class="cerrar-contact" />
+            <img src="{{asset('resources/img/cerrar-contact.png')}}" class="cerrar-contact" />
 
-            <img src="{{asset('assets_front/img/logo.svg')}}" class="logo-contact" />
+            <img src="{{asset('resources/img/logo.svg')}}" class="logo-contact" />
 
             <p style="margin-top:43px;">Tuxpan 69a, CP 06760
             <br />MEXICO CITY</p>
@@ -141,8 +141,8 @@
             <br />contact@habanerofilms.com</p>
 
             <p>
-                <img src="{{asset('assets_front/img/facebook.svg')}}" class="facebook" />
-                <img src="{{asset('assets_front/img/twitter.svg')}}" class="icono-t" />
+                <img src="{{asset('resources/img/facebook.svg')}}" class="facebook" />
+                <img src="{{asset('resources/img/twitter.svg')}}" class="icono-t" />
             </p>
         </div>
     </div>
